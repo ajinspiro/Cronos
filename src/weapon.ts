@@ -1,0 +1,1 @@
+export default "Cronos Binary. All rights resereved.";
